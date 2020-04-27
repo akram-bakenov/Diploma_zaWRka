@@ -2,8 +2,10 @@ import numpy as np
 import cv2
 
 
-def nothing(x):
-    pass
+# restriction of compilation if being imported 
+if __name__ == '__main__': 
+    def nothing(*arg):
+        pass
 
 # window for trackbars
 cv2.namedWindow("trackbars") 
