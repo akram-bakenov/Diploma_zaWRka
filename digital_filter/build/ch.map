@@ -1,0 +1,2023 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+                              C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o (__aeabi_fadd)
+c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+                              C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o (__aeabi_fmul)
+c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+                              C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o (__aeabi_f2uiz)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 build/obj/crt0_v7m.o
+ .bss           0x00000000        0x0 build/obj/crt0_v7m.o
+ .data          0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .bss           0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .text          0x00000000        0x0 build/obj/crt1.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .data          0x00000000        0x0 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .text          0x00000000        0x0 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .data          0x00000000        0x0 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .text          0x00000000        0x0 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+ .data          0x00000000        0x0 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+ .text          0x00000000        0x0 build/obj/vectors.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chsys.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdebug.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chtrace.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chvt.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chschd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chthreads.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chtm.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chregistry.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chsem.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmtx.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcond.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chevents.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmsg.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdynamic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmboxes.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmemcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chheap.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmempools.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore_v7m.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/osal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_st.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_buffers.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_queues.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_mmcsd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_adc.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_gpt.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_pal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_pwm.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_serial.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/nvic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_adc_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/stm32_dma.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_pal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_st_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_gpt_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_pwm_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_serial_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/board.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chprintf.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/memstreams.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/nullstreams.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/main.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/debug.o (symbol from plugin)
+ .data          0x00000000        0x0 c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash0           0x08000000         0x00200000
+flash1           0x00200000         0x00200000
+flash2           0x00000000         0x00000000
+flash3           0x00000000         0x00000000
+flash4           0x00000000         0x00000000
+flash5           0x00000000         0x00000000
+flash6           0x00000000         0x00000000
+flash7           0x00000000         0x00000000
+ram0             0x20020000         0x00060000
+ram1             0x20020000         0x0005c000
+ram2             0x2007c000         0x00004000
+ram3             0x20000000         0x00020000
+ram4             0x00000000         0x00004000
+ram5             0x40024000         0x00001000
+ram6             0x00000000         0x00000000
+ram7             0x00000000         0x00000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/obj/crt0_v7m.o
+LOAD build/obj/chcoreasm_v7m.o
+LOAD build/obj/crt1.o
+LOAD C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+LOAD C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+LOAD C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+LOAD build/obj/vectors.o
+LOAD build/obj/chsys.o
+LOAD build/obj/chdebug.o
+LOAD build/obj/chtrace.o
+LOAD build/obj/chvt.o
+LOAD build/obj/chschd.o
+LOAD build/obj/chthreads.o
+LOAD build/obj/chtm.o
+LOAD build/obj/chregistry.o
+LOAD build/obj/chsem.o
+LOAD build/obj/chmtx.o
+LOAD build/obj/chcond.o
+LOAD build/obj/chevents.o
+LOAD build/obj/chmsg.o
+LOAD build/obj/chdynamic.o
+LOAD build/obj/chmboxes.o
+LOAD build/obj/chmemcore.o
+LOAD build/obj/chheap.o
+LOAD build/obj/chmempools.o
+LOAD build/obj/chcore.o
+LOAD build/obj/chcore_v7m.o
+LOAD build/obj/osal.o
+LOAD build/obj/hal.o
+LOAD build/obj/hal_st.o
+LOAD build/obj/hal_buffers.o
+LOAD build/obj/hal_queues.o
+LOAD build/obj/hal_mmcsd.o
+LOAD build/obj/hal_adc.o
+LOAD build/obj/hal_gpt.o
+LOAD build/obj/hal_pal.o
+LOAD build/obj/hal_pwm.o
+LOAD build/obj/hal_serial.o
+LOAD build/obj/nvic.o
+LOAD build/obj/hal_lld.o
+LOAD build/obj/hal_adc_lld.o
+LOAD build/obj/stm32_dma.o
+LOAD build/obj/hal_pal_lld.o
+LOAD build/obj/hal_st_lld.o
+LOAD build/obj/hal_gpt_lld.o
+LOAD build/obj/hal_pwm_lld.o
+LOAD build/obj/hal_serial_lld.o
+LOAD build/obj/board.o
+LOAD build/obj/chprintf.o
+LOAD build/obj/memstreams.o
+LOAD build/obj/nullstreams.o
+LOAD build/obj/main.o
+LOAD build/obj/debug.o
+
+.mstack         0x20000000      0x400
+                0x20000000                . = ALIGN (0x8)
+                0x20000000                __main_stack_base__ = .
+                0x20000400                . = (. + __main_stack_size__)
+ *fill*         0x20000000      0x400 
+                0x20000400                . = ALIGN (0x8)
+                0x20000400                __main_stack_end__ = .
+
+.pstack         0x20000400      0x400
+                0x20000400                __process_stack_base__ = .
+                0x20000400                __main_thread_stack_base__ = .
+                0x20000800                . = (. + __process_stack_size__)
+ *fill*         0x20000400      0x400 
+                0x20000800                . = ALIGN (0x8)
+                0x20000800                __process_stack_end__ = .
+                0x20000800                __main_thread_stack_end__ = .
+
+.nocache        0x20000800        0x0
+                0x20000800                __nocache_base__ = .
+ *(.nocache)
+ *(.nocache.*)
+ *(.bss.__nocache_*)
+                0x20000800                . = ALIGN (0x4)
+                0x20000800                __nocache_end__ = .
+
+.eth            0x20000800        0x0
+                0x20000800                __eth_base__ = .
+ *(.eth)
+ *(.eth.*)
+ *(.bss.__eth_*)
+                0x20000800                . = ALIGN (0x4)
+                0x20000800                __eth_end__ = .
+
+.vectors        0x00200000      0x200 load address 0x08000000
+ *(.vectors)
+ .vectors       0x00200000      0x200 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                0x00200000                _vectors
+
+.xtors          0x00200200        0x0 load address 0x08000200
+                0x00200200                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x00200200                __init_array_end = .
+                0x00200200                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x00200200                __fini_array_end = .
+
+.text           0x00200200     0x2034 load address 0x08000200
+ *(.text)
+ .text          0x00200200       0xd4 build/obj/crt0_v7m.o
+                0x00200200                Reset_Handler
+ .text          0x002002d4       0x28 build/obj/chcoreasm_v7m.o
+                0x002002d4                _port_switch
+                0x002002e4                _port_thread_start
+                0x002002f4                _port_switch_from_isr
+                0x002002f8                _port_exit_from_isr
+ .text          0x002002fc      0x21c c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+                0x002002fc                __aeabi_frsub
+                0x00200304                __subsf3
+                0x00200304                __aeabi_fsub
+                0x00200308                __aeabi_fadd
+                0x00200308                __addsf3
+                0x00200468                __aeabi_ui2f
+                0x00200468                __floatunsisf
+                0x00200470                __aeabi_i2f
+                0x00200470                __floatsisf
+                0x0020048c                __aeabi_ul2f
+                0x0020048c                __floatundisf
+                0x0020049c                __aeabi_l2f
+                0x0020049c                __floatdisf
+ .text          0x00200518      0x2a0 c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+                0x00200518                __mulsf3
+                0x00200518                __aeabi_fmul
+                0x00200680                __aeabi_fdiv
+                0x00200680                __divsf3
+ .text          0x002007b8       0x40 c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+                0x002007b8                __fixunssfsi
+                0x002007b8                __aeabi_f2uiz
+ *(.text.*)
+ *fill*         0x002007f8        0x8 
+ .text.notify3.lto_priv.36
+                0x00200800       0x10 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200800                notify3.lto_priv.36
+ .text.SVC_Handler
+                0x00200810       0x1c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200810                SVC_Handler
+ *fill*         0x0020082c        0x4 
+ .text.chCoreAllocAligned
+                0x00200830       0x48 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200830                chCoreAllocAligned
+ *fill*         0x00200878        0x8 
+ .text.wakeup   0x00200880       0x70 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .text._idle_thread.lto_priv.45
+                0x002008f0        0x4 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x002008f0                _idle_thread.lto_priv.45
+ *fill*         0x002008f4        0xc 
+ .text.chSchGoSleepS
+                0x00200900       0x28 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ *fill*         0x00200928        0x8 
+ .text._pal_lld_setgroupmode
+                0x00200930       0xec C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200930                _pal_lld_setgroupmode
+ *fill*         0x00200a1c        0x4 
+ .text._port_irq_epilogue
+                0x00200a20       0x5c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200a20                _port_irq_epilogue
+ *fill*         0x00200a7c        0x4 
+ .text.VectorB4
+                0x00200a80       0x64 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200a80                VectorB4
+ *fill*         0x00200ae4        0xc 
+ .text.VectorB8
+                0x00200af0       0x34 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200af0                VectorB8
+ *fill*         0x00200b24        0xc 
+ .text.SysTick_Handler
+                0x00200b30       0x58 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200b30                SysTick_Handler
+ *fill*         0x00200b88        0x8 
+ .text.Vector158
+                0x00200b90       0x2c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200b90                Vector158
+ *fill*         0x00200bbc        0x4 
+ .text.Vector154
+                0x00200bc0       0x2c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200bc0                Vector154
+ *fill*         0x00200bec        0x4 
+ .text.Vector150
+                0x00200bf0       0x2c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200bf0                Vector150
+ *fill*         0x00200c1c        0x4 
+ .text.Vector130
+                0x00200c20       0x28 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200c20                Vector130
+ *fill*         0x00200c48        0x8 
+ .text.Vector12C
+                0x00200c50       0x2c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200c50                Vector12C
+ *fill*         0x00200c7c        0x4 
+ .text.Vector128
+                0x00200c80       0x2c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200c80                Vector128
+ *fill*         0x00200cac        0x4 
+ .text.Vector124
+                0x00200cb0       0x2c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200cb0                Vector124
+ *fill*         0x00200cdc        0x4 
+ .text.Vector120
+                0x00200ce0       0x28 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200ce0                Vector120
+ *fill*         0x00200d08        0x8 
+ .text.VectorFC
+                0x00200d10       0x2c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200d10                VectorFC
+ *fill*         0x00200d3c        0x4 
+ .text.Vector84
+                0x00200d40       0x2c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200d40                Vector84
+ *fill*         0x00200d6c        0x4 
+ .text.Vector80
+                0x00200d70       0x2c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200d70                Vector80
+ *fill*         0x00200d9c        0x4 
+ .text.Vector7C
+                0x00200da0       0x28 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200da0                Vector7C
+ *fill*         0x00200dc8        0x8 
+ .text.Vector78
+                0x00200dd0       0x2c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200dd0                Vector78
+ *fill*         0x00200dfc        0x4 
+ .text.Vector74
+                0x00200e00       0x2c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200e00                Vector74
+ *fill*         0x00200e2c        0x4 
+ .text.Vector70
+                0x00200e30       0x2c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200e30                Vector70
+ *fill*         0x00200e5c        0x4 
+ .text.Vector6C
+                0x00200e60       0x28 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200e60                Vector6C
+ *fill*         0x00200e88        0x8 
+ .text.chTMStopMeasurementX
+                0x00200e90       0x44 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200e90                chTMStopMeasurementX
+ *fill*         0x00200ed4        0xc 
+ .text.chSchDoReschedule
+                0x00200ee0       0x40 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200ee0                chSchDoReschedule
+ .text.chSchGoSleepTimeoutS
+                0x00200f20       0x88 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200f20                chSchGoSleepTimeoutS
+ *fill*         0x00200fa8        0x8 
+ .text.chThdEnqueueTimeoutS
+                0x00200fb0       0x28 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ *fill*         0x00200fd8        0x8 
+ .text.oqWriteTimeout
+                0x00200fe0       0xb8 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00200fe0                oqWriteTimeout
+ *fill*         0x00201098        0x8 
+ .text._writet.lto_priv.43
+                0x002010a0        0x8 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x002010a0                _writet.lto_priv.43
+ *fill*         0x002010a8        0x8 
+ .text._write.lto_priv.37
+                0x002010b0        0xc C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x002010b0                _write.lto_priv.37
+ *fill*         0x002010bc        0x4 
+ .text.oqPutTimeout
+                0x002010c0       0x54 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ *fill*         0x00201114        0xc 
+ .text._putt.lto_priv.41
+                0x00201120        0x8 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00201120                _putt.lto_priv.41
+ *fill*         0x00201128        0x8 
+ .text._put.lto_priv.39
+                0x00201130        0xc C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00201130                _put.lto_priv.39
+ *fill*         0x0020113c        0x4 
+ .text.iqReadTimeout
+                0x00201140       0xb8 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ *fill*         0x002011f8        0x8 
+ .text._readt.lto_priv.44
+                0x00201200        0x8 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00201200                _readt.lto_priv.44
+ *fill*         0x00201208        0x8 
+ .text._read.lto_priv.38
+                0x00201210        0xc C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00201210                _read.lto_priv.38
+ *fill*         0x0020121c        0x4 
+ .text.iqGetTimeout
+                0x00201220       0x50 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .text._gett.lto_priv.42
+                0x00201270        0x8 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00201270                _gett.lto_priv.42
+ *fill*         0x00201278        0x8 
+ .text._get.lto_priv.40
+                0x00201280        0xc C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00201280                _get.lto_priv.40
+ *fill*         0x0020128c        0x4 
+ .text.chSchReadyI
+                0x00201290       0x2c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00201290                chSchReadyI
+ *fill*         0x002012bc        0x4 
+ .text.Vector88
+                0x002012c0       0x98 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x002012c0                Vector88
+ *fill*         0x00201358        0x8 
+ .text.adc_lld_serve_rx_interrupt.lto_priv.35
+                0x00201360      0x128 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00201360                adc_lld_serve_rx_interrupt.lto_priv.35
+ *fill*         0x00201488        0x8 
+ .text.chThdExit
+                0x00201490       0x50 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00201490                chThdExit
+ .text._unhandled_exception
+                0x002014e0        0x4 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x002014e0                Vector58
+                0x002014e0                VectorE8
+                0x002014e0                Vector9C
+                0x002014e0                VectorAC
+                0x002014e0                DebugMon_Handler
+                0x002014e0                Vector1A0
+                0x002014e0                Vector5C
+                0x002014e0                Vector11C
+                0x002014e0                HardFault_Handler
+                0x002014e0                Vector1B8
+                0x002014e0                Vector1F0
+                0x002014e0                Vector19C
+                0x002014e0                Vector1EC
+                0x002014e0                Vector8C
+                0x002014e0                PendSV_Handler
+                0x002014e0                Vector168
+                0x002014e0                NMI_Handler
+                0x002014e0                Vector110
+                0x002014e0                Vector1D8
+                0x002014e0                Vector1F4
+                0x002014e0                VectorC8
+                0x002014e0                Vector94
+                0x002014e0                VectorA8
+                0x002014e0                Vector1FC
+                0x002014e0                Vector160
+                0x002014e0                Vector1B0
+                0x002014e0                UsageFault_Handler
+                0x002014e0                VectorEC
+                0x002014e0                Vector40
+                0x002014e0                VectorF8
+                0x002014e0                Vector108
+                0x002014e0                VectorBC
+                0x002014e0                Vector190
+                0x002014e0                Vector1E0
+                0x002014e0                Vector1F8
+                0x002014e0                Vector1C4
+                0x002014e0                Vector1CC
+                0x002014e0                Vector1E4
+                0x002014e0                Vector148
+                0x002014e0                Vector188
+                0x002014e0                Vector198
+                0x002014e0                Vector118
+                0x002014e0                Vector64
+                0x002014e0                VectorCC
+                0x002014e0                Vector54
+                0x002014e0                Vector98
+                0x002014e0                VectorD8
+                0x002014e0                Vector138
+                0x002014e0                Vector24
+                0x002014e0                Vector1AC
+                0x002014e0                Vector178
+                0x002014e0                Vector1A4
+                0x002014e0                VectorD0
+                0x002014e0                Vector1B4
+                0x002014e0                Vector140
+                0x002014e0                VectorE4
+                0x002014e0                VectorC0
+                0x002014e0                Vector1C0
+                0x002014e0                Vector134
+                0x002014e0                Vector1D0
+                0x002014e0                VectorF0
+                0x002014e0                Vector13C
+                0x002014e0                Vector100
+                0x002014e0                VectorE0
+                0x002014e0                VectorF4
+                0x002014e0                MemManage_Handler
+                0x002014e0                VectorA0
+                0x002014e0                VectorC4
+                0x002014e0                Vector180
+                0x002014e0                VectorB0
+                0x002014e0                Vector90
+                0x002014e0                Vector114
+                0x002014e0                Vector164
+                0x002014e0                Vector60
+                0x002014e0                Vector1C
+                0x002014e0                Vector1BC
+                0x002014e0                Vector1D4
+                0x002014e0                Vector17C
+                0x002014e0                Vector48
+                0x002014e0                Vector1A8
+                0x002014e0                Vector16C
+                0x002014e0                VectorD4
+                0x002014e0                Vector4C
+                0x002014e0                Vector144
+                0x002014e0                Vector15C
+                0x002014e0                Vector68
+                0x002014e0                Vector1E8
+                0x002014e0                _unhandled_exception
+                0x002014e0                Vector170
+                0x002014e0                Vector104
+                0x002014e0                Vector184
+                0x002014e0                Vector10C
+                0x002014e0                Vector14C
+                0x002014e0                BusFault_Handler
+                0x002014e0                Vector50
+                0x002014e0                Vector1C8
+                0x002014e0                Vector194
+                0x002014e0                Vector1DC
+                0x002014e0                Vector44
+                0x002014e0                Vector28
+                0x002014e0                Vector34
+                0x002014e0                VectorA4
+                0x002014e0                Vector20
+                0x002014e0                Vector18C
+                0x002014e0                Vector174
+ *fill*         0x002014e4        0xc 
+ .text.__init_ram_areas
+                0x002014f0       0x60 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x002014f0                __init_ram_areas
+ .text.__default_exit
+                0x00201550        0x4 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00201550                __default_exit
+ *fill*         0x00201554        0xc 
+ .text.__late_init
+                0x00201560        0x4 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00201560                __late_init
+ *fill*         0x00201564        0xc 
+ .text.__core_init
+                0x00201570       0x7c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                0x00201570                __core_init
+ *fill*         0x002015ec        0x4 
+ .text.adcerrorcallback
+                0x002015f0        0x4 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ *fill*         0x002015f4        0xc 
+ .text.adccallback
+                0x00201600       0x44 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ *fill*         0x00201644        0xc 
+ .text.VectorDC
+                0x00201650      0x190 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .text.startup.main
+                0x002017e0      0x8e8 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                0x002017e0                main
+ *fill*         0x002020c8        0x8 
+ .text.__early_init
+                0x002020d0       0xe8 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                0x002020d0                __early_init
+ *fill*         0x002021b8        0x8 
+ .text.chTMStartMeasurementX.constprop.30
+                0x002021c0        0xc C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+                0x002021c0                chTMStartMeasurementX.constprop.30
+ *fill*         0x002021cc        0x4 
+ .text.chEvtBroadcastFlagsI.constprop.27
+                0x002021d0       0x64 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+                0x002021d0                chEvtBroadcastFlagsI.constprop.27
+ *(.glue_7t)
+ .glue_7t       0x00202234        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00202234        0x0 linker stubs
+ *(.gcc*)
+
+.vfp11_veneer   0x00202234        0x0 load address 0x08002234
+ .vfp11_veneer  0x00202234        0x0 linker stubs
+
+.v4_bx          0x00202234        0x0 load address 0x08002234
+ .v4_bx         0x00202234        0x0 linker stubs
+
+.iplt           0x00202234        0x0 load address 0x08002234
+ .iplt          0x00202234        0x0 build/obj/crt0_v7m.o
+
+.rodata         0x08002234      0x1b8
+                0x08002234                . = ALIGN (0x4)
+                0x08002234                __rodata_base__ = .
+ *(.rodata)
+ *(.rodata.*)
+ .rodata.ram_areas
+                0x08002234       0x80 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .rodata._stm32_dma_streams
+                0x080022b4       0xc0 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .rodata.adcgrpcfg1
+                0x08002374       0x28 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .rodata.ch_debug
+                0x0800239c       0x16 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ *fill*         0x080023b2        0x2 
+ .rodata.gpt4cfg1
+                0x080023b4       0x10 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .rodata.main.str1.4
+                0x080023c4        0x8 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                  0x5 (size before relaxing)
+ .rodata.vmt    0x080023cc       0x20 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                0x080023ec                . = ALIGN (0x4)
+                0x080023ec                __rodata_end__ = .
+
+.rel.dyn        0x080023ec        0x0
+ .rel.iplt      0x080023ec        0x0 build/obj/crt0_v7m.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00202234        0x0 load address 0x080023ec
+                0x00202234                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00202234                __exidx_end = .
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+                0x20020000                __ram0_start__ = ORIGIN (ram0)
+                0x00060000                __ram0_size__ = LENGTH (ram0)
+                0x20080000                __ram0_end__ = (__ram0_start__ + __ram0_size__)
+                0x20020000                __ram1_start__ = ORIGIN (ram1)
+                0x0005c000                __ram1_size__ = LENGTH (ram1)
+                0x2007c000                __ram1_end__ = (__ram1_start__ + __ram1_size__)
+                0x2007c000                __ram2_start__ = ORIGIN (ram2)
+                0x00004000                __ram2_size__ = LENGTH (ram2)
+                0x20080000                __ram2_end__ = (__ram2_start__ + __ram2_size__)
+                0x20000000                __ram3_start__ = ORIGIN (ram3)
+                0x00020000                __ram3_size__ = LENGTH (ram3)
+                0x20020000                __ram3_end__ = (__ram3_start__ + __ram3_size__)
+                0x00000000                __ram4_start__ = ORIGIN (ram4)
+                0x00004000                __ram4_size__ = LENGTH (ram4)
+                0x00004000                __ram4_end__ = (__ram4_start__ + __ram4_size__)
+                0x40024000                __ram5_start__ = ORIGIN (ram5)
+                0x00001000                __ram5_size__ = LENGTH (ram5)
+                0x40025000                __ram5_end__ = (__ram5_start__ + __ram5_size__)
+                0x00000000                __ram6_start__ = ORIGIN (ram6)
+                0x00000000                __ram6_size__ = LENGTH (ram6)
+                0x00000000                __ram6_end__ = (__ram6_start__ + __ram6_size__)
+                0x00000000                __ram7_start__ = ORIGIN (ram7)
+                0x00000000                __ram7_size__ = LENGTH (ram7)
+                0x00000000                __ram7_end__ = (__ram7_start__ + __ram7_size__)
+
+.data           0x20020000        0x0 load address 0x080023ec
+                0x20020000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (_textdata, LOADADDR (.data))
+                [!provide]                PROVIDE (_data, .)
+                0x080023ec                _textdata_start = LOADADDR (.data)
+                0x20020000                _data_start = .
+ *(.data)
+ *(.data.*)
+ *(.ramtext)
+                0x20020000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (_edata, .)
+                0x20020000                _data_end = .
+
+.igot.plt       0x20020000        0x0 load address 0x080023ec
+ .igot.plt      0x20020000        0x0 build/obj/crt0_v7m.o
+
+.bss            0x20000800      0x2e8
+                0x20000800                . = ALIGN (0x4)
+                0x20000800                _bss_start = .
+ *(.bss)
+ *(.bss.*)
+ .bss.ADCD1     0x20000800       0x34 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                0x20000800                ADCD1
+ .bss.GPTD4     0x20000834       0x10 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                0x20000834                GPTD4
+ .bss.PWMD3     0x20000844       0x1c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                0x20000844                PWMD3
+ .bss.ch        0x20000860       0x74 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                0x20000860                ch
+ *fill*         0x200008d4        0x4 
+ .bss.ch_idle_thread_wa
+                0x200008d8       0xd8 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .bss.default_heap
+                0x200009b0       0x20 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .bss.dma_isr_redir.lto_priv.46
+                0x200009d0       0x80 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                0x200009d0                dma_isr_redir.lto_priv.46
+ .bss.dma_streams_mask
+                0x20000a50        0x4 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .bss.endmem.lto_priv.48
+                0x20000a54        0x4 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                0x20000a54                endmem.lto_priv.48
+ .bss.filtered_ADC_val
+                0x20000a58        0x2 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ *fill*         0x20000a5a        0x2 
+ .bss.nextmem.lto_priv.47
+                0x20000a5c        0x4 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                0x20000a5c                nextmem.lto_priv.47
+ .bss.samples1  0x20000a60        0x2 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ *fill*         0x20000a62        0x2 
+ .bss.sd_in_buf3
+                0x20000a64       0x10 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .bss.sd_out_buf3
+                0x20000a74       0x10 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .bss.val       0x20000a84        0x2 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ *fill*         0x20000a86        0x2 
+ .bss.SD3       0x20000a88       0x60 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+                0x20000a88                SD3
+ *(COMMON)
+                0x20000ae8                . = ALIGN (0x4)
+                0x20000ae8                _bss_end = .
+                [!provide]                PROVIDE (end, .)
+
+.ram0_init      0x20020000        0x0 load address 0x080023ec
+                0x20020000                . = ALIGN (0x4)
+                0x080023ec                __ram0_init_text__ = LOADADDR (.ram0_init)
+                0x20020000                __ram0_init__ = .
+ *(.ram0_init)
+ *(.ram0_init.*)
+                0x20020000                . = ALIGN (0x4)
+
+.ram0           0x20020000        0x0 load address 0x080023ec
+                0x20020000                . = ALIGN (0x4)
+                0x20020000                __ram0_clear__ = .
+ *(.ram0_clear)
+ *(.ram0_clear.*)
+                0x20020000                . = ALIGN (0x4)
+                0x20020000                __ram0_noinit__ = .
+ *(.ram0)
+ *(.ram0.*)
+                0x20020000                . = ALIGN (0x4)
+                0x20020000                __ram0_free__ = .
+
+.ram1_init      0x20020000        0x0 load address 0x080023ec
+                0x20020000                . = ALIGN (0x4)
+                0x080023ec                __ram1_init_text__ = LOADADDR (.ram1_init)
+                0x20020000                __ram1_init__ = .
+ *(.ram1_init)
+ *(.ram1_init.*)
+                0x20020000                . = ALIGN (0x4)
+
+.ram1           0x20020000        0x0 load address 0x080023ec
+                0x20020000                . = ALIGN (0x4)
+                0x20020000                __ram1_clear__ = .
+ *(.ram1_clear)
+ *(.ram1_clear.*)
+                0x20020000                . = ALIGN (0x4)
+                0x20020000                __ram1_noinit__ = .
+ *(.ram1)
+ *(.ram1.*)
+                0x20020000                . = ALIGN (0x4)
+                0x20020000                __ram1_free__ = .
+
+.ram2_init      0x2007c000        0x0 load address 0x080023ec
+                0x2007c000                . = ALIGN (0x4)
+                0x080023ec                __ram2_init_text__ = LOADADDR (.ram2_init)
+                0x2007c000                __ram2_init__ = .
+ *(.ram2_init)
+ *(.ram2_init.*)
+                0x2007c000                . = ALIGN (0x4)
+
+.ram2           0x2007c000        0x0 load address 0x080023ec
+                0x2007c000                . = ALIGN (0x4)
+                0x2007c000                __ram2_clear__ = .
+ *(.ram2_clear)
+ *(.ram2_clear.*)
+                0x2007c000                . = ALIGN (0x4)
+                0x2007c000                __ram2_noinit__ = .
+ *(.ram2)
+ *(.ram2.*)
+                0x2007c000                . = ALIGN (0x4)
+                0x2007c000                __ram2_free__ = .
+
+.ram3_init      0x20000ae8        0x0 load address 0x080023ec
+                0x20000ae8                . = ALIGN (0x4)
+                0x080023ec                __ram3_init_text__ = LOADADDR (.ram3_init)
+                0x20000ae8                __ram3_init__ = .
+ *(.ram3_init)
+ *(.ram3_init.*)
+                0x20000ae8                . = ALIGN (0x4)
+
+.ram3           0x20000ae8        0x0 load address 0x080023ec
+                0x20000ae8                . = ALIGN (0x4)
+                0x20000ae8                __ram3_clear__ = .
+ *(.ram3_clear)
+ *(.ram3_clear.*)
+                0x20000ae8                . = ALIGN (0x4)
+                0x20000ae8                __ram3_noinit__ = .
+ *(.ram3)
+ *(.ram3.*)
+                0x20000ae8                . = ALIGN (0x4)
+                0x20000ae8                __ram3_free__ = .
+
+.ram4_init      0x00000000        0x0 load address 0x080023ec
+                0x00000000                . = ALIGN (0x4)
+                0x080023ec                __ram4_init_text__ = LOADADDR (.ram4_init)
+                0x00000000                __ram4_init__ = .
+ *(.ram4_init)
+ *(.ram4_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram4           0x00000000        0x0 load address 0x080023ec
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram4_clear__ = .
+ *(.ram4_clear)
+ *(.ram4_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram4_noinit__ = .
+ *(.ram4)
+ *(.ram4.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram4_free__ = .
+
+.ram5_init      0x40024000        0x0 load address 0x080023ec
+                0x40024000                . = ALIGN (0x4)
+                0x080023ec                __ram5_init_text__ = LOADADDR (.ram5_init)
+                0x40024000                __ram5_init__ = .
+ *(.ram5_init)
+ *(.ram5_init.*)
+                0x40024000                . = ALIGN (0x4)
+
+.ram5           0x40024000        0x0 load address 0x080023ec
+                0x40024000                . = ALIGN (0x4)
+                0x40024000                __ram5_clear__ = .
+ *(.ram5_clear)
+ *(.ram5_clear.*)
+                0x40024000                . = ALIGN (0x4)
+                0x40024000                __ram5_noinit__ = .
+ *(.ram5)
+ *(.ram5.*)
+                0x40024000                . = ALIGN (0x4)
+                0x40024000                __ram5_free__ = .
+
+.ram6_init      0x00000000        0x0 load address 0x080023ec
+                0x00000000                . = ALIGN (0x4)
+                0x080023ec                __ram6_init_text__ = LOADADDR (.ram6_init)
+                0x00000000                __ram6_init__ = .
+ *(.ram6_init)
+ *(.ram6_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram6           0x00000000        0x0 load address 0x080023ec
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_clear__ = .
+ *(.ram6_clear)
+ *(.ram6_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_noinit__ = .
+ *(.ram6)
+ *(.ram6.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_free__ = .
+
+.ram7_init      0x00000000        0x0 load address 0x080023ec
+                0x00000000                . = ALIGN (0x4)
+                0x080023ec                __ram7_init_text__ = LOADADDR (.ram7_init)
+                0x00000000                __ram7_init__ = .
+ *(.ram7_init)
+ *(.ram7_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram7           0x00000000        0x0 load address 0x080023ec
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_clear__ = .
+ *(.ram7_clear)
+ *(.ram7_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_noinit__ = .
+ *(.ram7)
+ *(.ram7.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_free__ = .
+
+.heap           0x20020000    0x60000
+                0x20020000                . = ALIGN (0x8)
+                0x20020000                __heap_base__ = .
+                0x20080000                . = (ORIGIN (HEAP_RAM) + LENGTH (HEAP_RAM))
+ *fill*         0x20020000    0x60000 
+                0x20080000                __heap_end__ = .
+                0x00000400                __process_stack_size__ = 0x400
+                0x00000400                __main_stack_size__ = 0x400
+START GROUP
+LOAD c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a
+LOAD c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libg.a
+LOAD c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a
+END GROUP
+OUTPUT(build/ch.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2d
+ .ARM.attributes
+                0x00000000       0x21 build/obj/crt0_v7m.o
+ .ARM.attributes
+                0x00000021       0x21 build/obj/chcoreasm_v7m.o
+ .ARM.attributes
+                0x00000042       0x31 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .ARM.attributes
+                0x00000073       0x31 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .ARM.attributes
+                0x000000a4       0x31 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+ .ARM.attributes
+                0x000000d5       0x1e c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x000000f3       0x1e c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x00000111       0x1e c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .comment       0x0000007f       0x80 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+
+.debug_info     0x00000000     0x7e3e
+ .debug_info    0x00000000     0x3817 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .debug_info    0x00003817     0x3c23 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .debug_info    0x0000743a      0xa04 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+
+.debug_abbrev   0x00000000      0xe3b
+ .debug_abbrev  0x00000000      0x6c6 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .debug_abbrev  0x000006c6      0x54c C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .debug_abbrev  0x00000c12      0x229 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+
+.debug_loc      0x00000000     0x2383
+ .debug_loc     0x00000000     0x1659 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .debug_loc     0x00001659      0xcb5 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .debug_loc     0x0000230e       0x75 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+
+.debug_aranges  0x00000000      0x220
+ .debug_aranges
+                0x00000000      0x1b8 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .debug_aranges
+                0x000001b8       0x40 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .debug_aranges
+                0x000001f8       0x28 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+
+.debug_ranges   0x00000000     0x1388
+ .debug_ranges  0x00000000      0x4f8 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .debug_ranges  0x000004f8      0xe58 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .debug_ranges  0x00001350       0x38 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+
+.debug_line     0x00000000     0x2c04
+ .debug_line    0x00000000     0x1307 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .debug_line    0x00001307     0x1402 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .debug_line    0x00002709      0x4fb C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+
+.debug_str      0x00000000     0x1acb
+ .debug_str     0x00000000      0xf62 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                               0x103d (size before relaxing)
+ .debug_str     0x00000f62      0xaec C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                               0x14e0 (size before relaxing)
+ .debug_str     0x00001a4e       0x7d C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+                                0x62c (size before relaxing)
+
+.debug_frame    0x00000000      0x75c
+ .debug_frame   0x00000000      0x5d0 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+ .debug_frame   0x000005d0       0xa4 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+ .debug_frame   0x00000674       0x40 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+ .debug_frame   0x000006b4       0x4c c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x00000700       0x38 c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x00000738       0x24 c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADCD1                                             C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+BusFault_Handler                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+DebugMon_Handler                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+GPTD4                                             C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+HardFault_Handler                                 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+MemManage_Handler                                 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+NMI_Handler                                       C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+PWMD3                                             C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+PendSV_Handler                                    C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Reset_Handler                                     build/obj/crt0_v7m.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+SD3                                               C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/debug.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+SVC_Handler                                       C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+SysTick_Handler                                   C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+SystemCoreClock                                   build/obj/hal_lld.o (symbol from plugin)
+UsageFault_Handler                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector100                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector104                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector108                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector10C                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector110                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector114                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector118                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector11C                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector120                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector124                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector128                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector12C                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector130                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector134                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector138                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector13C                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector140                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector144                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector148                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector14C                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector150                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector154                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector158                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector15C                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector160                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector164                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector168                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector16C                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector170                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector174                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector178                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector17C                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector180                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector184                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector188                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector18C                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector190                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector194                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector198                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector19C                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1A0                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1A4                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1A8                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1AC                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1B0                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1B4                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1B8                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1BC                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1C                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1C0                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1C4                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1C8                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1CC                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1D0                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1D4                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1D8                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1DC                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1E0                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1E4                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1E8                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1EC                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1F0                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1F4                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1F8                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector1FC                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector20                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector24                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector28                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector34                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector40                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector44                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector48                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector4C                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector50                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector54                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector58                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector5C                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector60                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector64                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector68                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector6C                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector70                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector74                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector78                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector7C                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector80                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector84                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector88                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector8C                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector90                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector94                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector98                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+Vector9C                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorA0                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorA4                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorA8                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorAC                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorB0                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorB4                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorB8                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorBC                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorC0                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorC4                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorC8                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorCC                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorD0                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorD4                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorD8                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorDC                                          build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorE0                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorE4                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorE8                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorEC                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorF0                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorF4                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorF8                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+VectorFC                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+__addsf3                                          c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__aeabi_f2uiz                                     c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+__aeabi_fadd                                      c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+__aeabi_fdiv                                      c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+__aeabi_fmul                                      c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+__aeabi_frsub                                     c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__aeabi_fsub                                      c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__aeabi_i2f                                       c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+__aeabi_l2f                                       c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__aeabi_ui2f                                      c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__aeabi_ul2f                                      c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__core_init                                       C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__default_exit                                    C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__divsf3                                          c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+__early_init                                      C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/board.o (symbol from plugin)
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__fini_array_end                                  build/obj/crt0_v7m.o
+__fini_array_start                                build/obj/crt0_v7m.o
+__fixunssfsi                                      c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+__floatdisf                                       c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__floatsisf                                       c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__floatundisf                                     c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__floatunsisf                                     c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__heap_base__                                     C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+__heap_end__                                      C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+__init_array_end                                  build/obj/crt0_v7m.o
+__init_array_start                                build/obj/crt0_v7m.o
+__init_ram_areas                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__late_init                                       C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__main_stack_base__                               build/obj/crt0_v7m.o
+__main_stack_end__                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__mulsf3                                          c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+__process_stack_base__                            build/obj/crt0_v7m.o
+__process_stack_end__                             build/obj/crt0_v7m.o
+__ram0_clear__                                    C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_init__                                     C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_init_text__                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_noinit__                                   C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_clear__                                    C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_init__                                     C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_init_text__                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_noinit__                                   C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_clear__                                    C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_init__                                     C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_init_text__                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_noinit__                                   C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_clear__                                    C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_init__                                     C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_init_text__                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_noinit__                                   C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_clear__                                    C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_init__                                     C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_init_text__                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_noinit__                                   C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_clear__                                    C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_init__                                     C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_init_text__                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_noinit__                                   C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_clear__                                    C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_init__                                     C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_init_text__                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_noinit__                                   C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_clear__                                    C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_init__                                     C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_init_text__                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_noinit__                                   C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__subsf3                                          c:/chibi/chibistudio17v3_windows/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+_bss_end                                          build/obj/crt0_v7m.o
+_bss_start                                        build/obj/crt0_v7m.o
+_core_init                                        build/obj/chmemcore.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_data_end                                         build/obj/crt0_v7m.o
+_data_start                                       build/obj/crt0_v7m.o
+_get.lto_priv.40                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+_gett.lto_priv.42                                 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+_heap_init                                        build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_idle_thread.lto_priv.45                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+_pal_lld_init                                     build/obj/hal_pal_lld.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+_pal_lld_setgroupmode                             C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/hal_pal_lld.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/debug.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/hal_pal.o (symbol from plugin)
+_port_exit_from_isr                               build/obj/chcoreasm_v7m.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+_port_irq_epilogue                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+_port_switch                                      build/obj/chcoreasm_v7m.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+_port_switch_from_isr                             build/obj/chcoreasm_v7m.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+_port_thread_start                                build/obj/chcoreasm_v7m.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+_put.lto_priv.39                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+_putt.lto_priv.41                                 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+_read.lto_priv.38                                 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+_readt.lto_priv.44                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+_scheduler_init                                   build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_stm32_dma_streams                                build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+_textdata_start                                   build/obj/crt0_v7m.o
+_thread_init                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_tm_init                                          build/obj/chtm.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_unhandled_exception                              C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+_vectors                                          C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+_vt_init                                          build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_write.lto_priv.37                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+_writet.lto_priv.43                               C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+a                                                 build/obj/main.o (symbol from plugin)
+adcAcquireBus                                     build/obj/hal_adc.o (symbol from plugin)
+adcConvert                                        build/obj/hal_adc.o (symbol from plugin)
+adcInit                                           build/obj/hal_adc.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+adcObjectInit                                     build/obj/hal_adc.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+adcReleaseBus                                     build/obj/hal_adc.o (symbol from plugin)
+adcSTM32DisableTSVREFE                            build/obj/hal_adc_lld.o (symbol from plugin)
+adcSTM32DisableVBATE                              build/obj/hal_adc_lld.o (symbol from plugin)
+adcSTM32EnableTSVREFE                             build/obj/hal_adc_lld.o (symbol from plugin)
+adcSTM32EnableVBATE                               build/obj/hal_adc_lld.o (symbol from plugin)
+adcStart                                          build/obj/hal_adc.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+adcStartConversion                                build/obj/hal_adc.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+adcStartConversionI                               build/obj/hal_adc.o (symbol from plugin)
+adcStop                                           build/obj/hal_adc.o (symbol from plugin)
+adcStopConversion                                 build/obj/hal_adc.o (symbol from plugin)
+adcStopConversionI                                build/obj/hal_adc.o (symbol from plugin)
+adc_lld_init                                      build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+adc_lld_serve_rx_interrupt.lto_priv.35            C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+adc_lld_start                                     build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+adc_lld_start_conversion                          build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+adc_lld_stop                                      build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+adc_lld_stop_conversion                           build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+boardInit                                         build/obj/board.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+ch                                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chtm.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chCondBroadcast                                   build/obj/chcond.o (symbol from plugin)
+chCondBroadcastI                                  build/obj/chcond.o (symbol from plugin)
+chCondObjectInit                                  build/obj/chcond.o (symbol from plugin)
+chCondSignal                                      build/obj/chcond.o (symbol from plugin)
+chCondSignalI                                     build/obj/chcond.o (symbol from plugin)
+chCondWait                                        build/obj/chcond.o (symbol from plugin)
+chCondWaitS                                       build/obj/chcond.o (symbol from plugin)
+chCondWaitTimeout                                 build/obj/chcond.o (symbol from plugin)
+chCondWaitTimeoutS                                build/obj/chcond.o (symbol from plugin)
+chCoreAllocAligned                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/chheap.o (symbol from plugin)
+chCoreAllocAlignedI                               build/obj/chmemcore.o (symbol from plugin)
+chCoreGetStatusX                                  build/obj/chmemcore.o (symbol from plugin)
+chEvtAddEvents                                    build/obj/chevents.o (symbol from plugin)
+chEvtBroadcastFlags                               build/obj/chevents.o (symbol from plugin)
+chEvtBroadcastFlagsI                              build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+chEvtBroadcastFlagsI.constprop.27                 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+chEvtDispatch                                     build/obj/chevents.o (symbol from plugin)
+chEvtGetAndClearEvents                            build/obj/chevents.o (symbol from plugin)
+chEvtGetAndClearFlags                             build/obj/chevents.o (symbol from plugin)
+chEvtGetAndClearFlagsI                            build/obj/chevents.o (symbol from plugin)
+chEvtRegisterMaskWithFlags                        build/obj/chevents.o (symbol from plugin)
+chEvtSignal                                       build/obj/chevents.o (symbol from plugin)
+chEvtSignalI                                      build/obj/chevents.o (symbol from plugin)
+chEvtUnregister                                   build/obj/chevents.o (symbol from plugin)
+chEvtWaitAll                                      build/obj/chevents.o (symbol from plugin)
+chEvtWaitAllTimeout                               build/obj/chevents.o (symbol from plugin)
+chEvtWaitAny                                      build/obj/chevents.o (symbol from plugin)
+chEvtWaitAnyTimeout                               build/obj/chevents.o (symbol from plugin)
+chEvtWaitOne                                      build/obj/chevents.o (symbol from plugin)
+chEvtWaitOneTimeout                               build/obj/chevents.o (symbol from plugin)
+chGuardedPoolAllocTimeout                         build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolAllocTimeoutS                        build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolFree                                 build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolFreeI                                build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolLoadArray                            build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolObjectInit                           build/obj/chmempools.o (symbol from plugin)
+chHeapAllocAligned                                build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chHeapFree                                        build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chHeapObjectInit                                  build/obj/chheap.o (symbol from plugin)
+chHeapStatus                                      build/obj/chheap.o (symbol from plugin)
+chMBFetch                                         build/obj/chmboxes.o (symbol from plugin)
+chMBFetchI                                        build/obj/chmboxes.o (symbol from plugin)
+chMBFetchS                                        build/obj/chmboxes.o (symbol from plugin)
+chMBObjectInit                                    build/obj/chmboxes.o (symbol from plugin)
+chMBPost                                          build/obj/chmboxes.o (symbol from plugin)
+chMBPostAhead                                     build/obj/chmboxes.o (symbol from plugin)
+chMBPostAheadI                                    build/obj/chmboxes.o (symbol from plugin)
+chMBPostAheadS                                    build/obj/chmboxes.o (symbol from plugin)
+chMBPostI                                         build/obj/chmboxes.o (symbol from plugin)
+chMBPostS                                         build/obj/chmboxes.o (symbol from plugin)
+chMBReset                                         build/obj/chmboxes.o (symbol from plugin)
+chMBResetI                                        build/obj/chmboxes.o (symbol from plugin)
+chMsgRelease                                      build/obj/chmsg.o (symbol from plugin)
+chMsgSend                                         build/obj/chmsg.o (symbol from plugin)
+chMsgWait                                         build/obj/chmsg.o (symbol from plugin)
+chMtxLock                                         build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxLockS                                        build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+chMtxObjectInit                                   build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxTryLock                                      build/obj/chmtx.o (symbol from plugin)
+chMtxTryLockS                                     build/obj/chmtx.o (symbol from plugin)
+chMtxUnlock                                       build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxUnlockAll                                    build/obj/chmtx.o (symbol from plugin)
+chMtxUnlockAllS                                   build/obj/chmtx.o (symbol from plugin)
+chMtxUnlockS                                      build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+chPoolAlloc                                       build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chPoolAllocI                                      build/obj/chmempools.o (symbol from plugin)
+chPoolFree                                        build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chPoolFreeI                                       build/obj/chmempools.o (symbol from plugin)
+chPoolLoadArray                                   build/obj/chmempools.o (symbol from plugin)
+chPoolObjectInit                                  build/obj/chmempools.o (symbol from plugin)
+chRegFindThreadByName                             build/obj/chregistry.o (symbol from plugin)
+chRegFindThreadByPointer                          build/obj/chregistry.o (symbol from plugin)
+chRegFindThreadByWorkingArea                      build/obj/chregistry.o (symbol from plugin)
+chRegFirstThread                                  build/obj/chregistry.o (symbol from plugin)
+chRegNextThread                                   build/obj/chregistry.o (symbol from plugin)
+chSchDoReschedule                                 C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chcoreasm_v7m.o
+chSchDoRescheduleAhead                            build/obj/chschd.o (symbol from plugin)
+chSchDoRescheduleBehind                           build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchGoSleepS                                     build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchGoSleepTimeoutS                              C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchIsPreemptionRequired                         build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+chSchReadyAheadI                                  build/obj/chschd.o (symbol from plugin)
+chSchReadyI                                       C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchRescheduleS                                  build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chSchWakeupS                                      build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSemAddCounterI                                  build/obj/chsem.o (symbol from plugin)
+chSemObjectInit                                   build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+chSemReset                                        build/obj/chsem.o (symbol from plugin)
+chSemResetI                                       build/obj/chsem.o (symbol from plugin)
+chSemSignal                                       build/obj/chsem.o (symbol from plugin)
+chSemSignalI                                      build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+chSemSignalWait                                   build/obj/chsem.o (symbol from plugin)
+chSemWait                                         build/obj/chsem.o (symbol from plugin)
+chSemWaitS                                        build/obj/chsem.o (symbol from plugin)
+chSemWaitTimeout                                  build/obj/chsem.o (symbol from plugin)
+chSemWaitTimeoutS                                 build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+chSysGetStatusAndLockX                            build/obj/chsys.o (symbol from plugin)
+chSysHalt                                         build/obj/chsys.o (symbol from plugin)
+chSysInit                                         build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+chSysIntegrityCheckI                              build/obj/chsys.o (symbol from plugin)
+chSysIsCounterWithinX                             build/obj/chsys.o (symbol from plugin)
+chSysPolledDelayX                                 build/obj/chsys.o (symbol from plugin)
+chSysRestoreStatusX                               build/obj/chsys.o (symbol from plugin)
+chSysTimerHandlerI                                build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+chTMChainMeasurementToX                           build/obj/chtm.o (symbol from plugin)
+chTMObjectInit                                    build/obj/chtm.o (symbol from plugin)
+chTMStartMeasurementX                             build/obj/chtm.o (symbol from plugin)
+chTMStartMeasurementX.constprop.30                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans2.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+chTMStopMeasurementX                              C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/chtm.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+chThdAddRef                                       build/obj/chthreads.o (symbol from plugin)
+chThdCreate                                       build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chThdCreateFromHeap                               build/obj/chdynamic.o (symbol from plugin)
+chThdCreateFromMemoryPool                         build/obj/chdynamic.o (symbol from plugin)
+chThdCreateI                                      build/obj/chthreads.o (symbol from plugin)
+chThdCreateStatic                                 build/obj/chthreads.o (symbol from plugin)
+chThdCreateSuspended                              build/obj/chthreads.o (symbol from plugin)
+chThdCreateSuspendedI                             build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chThdDequeueAllI                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chThdDequeueNextI                                 build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chThdEnqueueTimeoutS                              build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chThdExit                                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chcoreasm_v7m.o
+chThdExitS                                        build/obj/chthreads.o (symbol from plugin)
+chThdRelease                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chregistry.o (symbol from plugin)
+chThdResume                                       build/obj/chthreads.o (symbol from plugin)
+chThdResumeI                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+chThdResumeS                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+chThdSetPriority                                  build/obj/chthreads.o (symbol from plugin)
+chThdSleep                                        build/obj/chthreads.o (symbol from plugin)
+chThdSleepUntil                                   build/obj/chthreads.o (symbol from plugin)
+chThdSleepUntilWindowed                           build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+chThdStart                                        build/obj/chthreads.o (symbol from plugin)
+chThdSuspendS                                     build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_adc.o (symbol from plugin)
+chThdSuspendTimeoutS                              build/obj/chthreads.o (symbol from plugin)
+chThdTerminate                                    build/obj/chthreads.o (symbol from plugin)
+chThdWait                                         build/obj/chthreads.o (symbol from plugin)
+chThdYield                                        build/obj/chthreads.o (symbol from plugin)
+chVTDoResetI                                      build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chschd.o (symbol from plugin)
+chVTDoSetI                                        build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chschd.o (symbol from plugin)
+ch_debug                                          build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+ch_idle_thread_wa                                 build/obj/chsys.o (symbol from plugin)
+chprintf                                          build/obj/chprintf.o (symbol from plugin)
+chsnprintf                                        build/obj/chprintf.o (symbol from plugin)
+chvprintf                                         build/obj/chprintf.o (symbol from plugin)
+                                                  build/obj/debug.o (symbol from plugin)
+dbgprintf                                         build/obj/debug.o (symbol from plugin)
+debug_stream_init                                 build/obj/debug.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+dmaInit                                           build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/hal_lld.o (symbol from plugin)
+dmaStreamAllocate                                 build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+dmaStreamRelease                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+dma_isr_redir.lto_priv.46                         C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+endmem.lto_priv.48                                C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+filtered_ADC_val                                  build/obj/main.o (symbol from plugin)
+gptChangeInterval                                 build/obj/hal_gpt.o (symbol from plugin)
+gptInit                                           build/obj/hal_gpt.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+gptObjectInit                                     build/obj/hal_gpt.o (symbol from plugin)
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+gptPolledDelay                                    build/obj/hal_gpt.o (symbol from plugin)
+gptStart                                          build/obj/hal_gpt.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+gptStartContinuous                                build/obj/hal_gpt.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+gptStartContinuousI                               build/obj/hal_gpt.o (symbol from plugin)
+gptStartOneShot                                   build/obj/hal_gpt.o (symbol from plugin)
+gptStartOneShotI                                  build/obj/hal_gpt.o (symbol from plugin)
+gptStop                                           build/obj/hal_gpt.o (symbol from plugin)
+gptStopTimer                                      build/obj/hal_gpt.o (symbol from plugin)
+gptStopTimerI                                     build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_init                                      build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_polled_delay                              build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_serve_interrupt                           build/obj/hal_gpt_lld.o (symbol from plugin)
+gpt_lld_start                                     build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_start_timer                               build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_stop                                      build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_stop_timer                                build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+halInit                                           build/obj/hal.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+hal_lld_init                                      build/obj/hal_lld.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+ibqGetEmptyBufferI                                build/obj/hal_buffers.o (symbol from plugin)
+ibqGetFullBufferTimeout                           build/obj/hal_buffers.o (symbol from plugin)
+ibqGetFullBufferTimeoutS                          build/obj/hal_buffers.o (symbol from plugin)
+ibqGetTimeout                                     build/obj/hal_buffers.o (symbol from plugin)
+ibqObjectInit                                     build/obj/hal_buffers.o (symbol from plugin)
+ibqPostFullBufferI                                build/obj/hal_buffers.o (symbol from plugin)
+ibqReadTimeout                                    build/obj/hal_buffers.o (symbol from plugin)
+ibqReleaseEmptyBuffer                             build/obj/hal_buffers.o (symbol from plugin)
+ibqReleaseEmptyBufferS                            build/obj/hal_buffers.o (symbol from plugin)
+ibqResetI                                         build/obj/hal_buffers.o (symbol from plugin)
+iqGetTimeout                                      build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+iqObjectInit                                      build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+iqPutI                                            build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+iqReadTimeout                                     build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+iqResetI                                          build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+main                                              C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+msObjectInit                                      build/obj/memstreams.o (symbol from plugin)
+                                                  build/obj/chprintf.o (symbol from plugin)
+nextmem.lto_priv.47                               C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+notify3.lto_priv.36                               C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+nullObjectInit                                    build/obj/nullstreams.o (symbol from plugin)
+nvicClearPending                                  build/obj/nvic.o (symbol from plugin)
+nvicDisableVector                                 build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+nvicEnableVector                                  build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/hal_adc_lld.o (symbol from plugin)
+nvicSetSystemHandlerPriority                      build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+obqFlush                                          build/obj/hal_buffers.o (symbol from plugin)
+obqGetEmptyBufferTimeout                          build/obj/hal_buffers.o (symbol from plugin)
+obqGetEmptyBufferTimeoutS                         build/obj/hal_buffers.o (symbol from plugin)
+obqGetFullBufferI                                 build/obj/hal_buffers.o (symbol from plugin)
+obqObjectInit                                     build/obj/hal_buffers.o (symbol from plugin)
+obqPostFullBuffer                                 build/obj/hal_buffers.o (symbol from plugin)
+obqPostFullBufferS                                build/obj/hal_buffers.o (symbol from plugin)
+obqPutTimeout                                     build/obj/hal_buffers.o (symbol from plugin)
+obqReleaseEmptyBufferI                            build/obj/hal_buffers.o (symbol from plugin)
+obqResetI                                         build/obj/hal_buffers.o (symbol from plugin)
+obqTryFlushI                                      build/obj/hal_buffers.o (symbol from plugin)
+obqWriteTimeout                                   build/obj/hal_buffers.o (symbol from plugin)
+oqGetI                                            build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+oqObjectInit                                      build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+oqPutTimeout                                      build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+oqResetI                                          build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+oqWriteTimeout                                    C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans0.ltrans.o
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  C:\Users\User\AppData\Local\Temp\ccjr1wPY.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+palReadBus                                        build/obj/hal_pal.o (symbol from plugin)
+palSetBusMode                                     build/obj/hal_pal.o (symbol from plugin)
+palWriteBus                                       build/obj/hal_pal.o (symbol from plugin)
+pal_default_config                                build/obj/board.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+pwmChangePeriod                                   build/obj/hal_pwm.o (symbol from plugin)
+pwmDisableChannel                                 build/obj/hal_pwm.o (symbol from plugin)
+pwmDisableChannelNotification                     build/obj/hal_pwm.o (symbol from plugin)
+pwmDisablePeriodicNotification                    build/obj/hal_pwm.o (symbol from plugin)
+pwmEnableChannel                                  build/obj/hal_pwm.o (symbol from plugin)
+pwmEnableChannelNotification                      build/obj/hal_pwm.o (symbol from plugin)
+pwmEnablePeriodicNotification                     build/obj/hal_pwm.o (symbol from plugin)
+pwmInit                                           build/obj/hal_pwm.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+pwmLEDconf                                        build/obj/main.o (symbol from plugin)
+pwmObjectInit                                     build/obj/hal_pwm.o (symbol from plugin)
+                                                  build/obj/hal_pwm_lld.o (symbol from plugin)
+pwmStart                                          build/obj/hal_pwm.o (symbol from plugin)
+pwmStop                                           build/obj/hal_pwm.o (symbol from plugin)
+pwm_lld_disable_channel                           build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  build/obj/hal_pwm.o (symbol from plugin)
+pwm_lld_disable_channel_notification              build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  build/obj/hal_pwm.o (symbol from plugin)
+pwm_lld_disable_periodic_notification             build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  build/obj/hal_pwm.o (symbol from plugin)
+pwm_lld_enable_channel                            build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  build/obj/hal_pwm.o (symbol from plugin)
+pwm_lld_enable_channel_notification               build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  build/obj/hal_pwm.o (symbol from plugin)
+pwm_lld_enable_periodic_notification              build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  build/obj/hal_pwm.o (symbol from plugin)
+pwm_lld_init                                      build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  build/obj/hal_pwm.o (symbol from plugin)
+pwm_lld_serve_interrupt                           build/obj/hal_pwm_lld.o (symbol from plugin)
+pwm_lld_start                                     build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  build/obj/hal_pwm.o (symbol from plugin)
+pwm_lld_stop                                      build/obj/hal_pwm_lld.o (symbol from plugin)
+                                                  build/obj/hal_pwm.o (symbol from plugin)
+sdGetWouldBlock                                   build/obj/hal_serial.o (symbol from plugin)
+sdIncomingDataI                                   build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+sdInit                                            build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+sdObjectInit                                      build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+sdPutWouldBlock                                   build/obj/hal_serial.o (symbol from plugin)
+sdRequestDataI                                    build/obj/hal_serial.o (symbol from plugin)
+sdStart                                           build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/debug.o (symbol from plugin)
+sdStop                                            build/obj/hal_serial.o (symbol from plugin)
+sd_lld_init                                       build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+sd_lld_start                                      build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+sd_lld_stop                                       build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+stGetAlarm                                        build/obj/hal_st.o (symbol from plugin)
+stInit                                            build/obj/hal_st.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+stSetAlarm                                        build/obj/hal_st.o (symbol from plugin)
+stStartAlarm                                      build/obj/hal_st.o (symbol from plugin)
+stStopAlarm                                       build/obj/hal_st.o (symbol from plugin)
+st_lld_init                                       build/obj/hal_st_lld.o (symbol from plugin)
+                                                  build/obj/hal_st.o (symbol from plugin)
+stm32_clock_init                                  build/obj/hal_lld.o (symbol from plugin)
+                                                  build/obj/board.o (symbol from plugin)
+val                                               build/obj/main.o (symbol from plugin)
