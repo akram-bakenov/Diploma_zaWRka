@@ -36,28 +36,28 @@ def steering_angle(center):
     cv2.putText(img, "Steering Angle = %ddeg" % (angle), (10, 65), cv2.FONT_HERSHEY_SIMPLEX, 1, color_yellow, 2)
     print(angle)
 
-# def hsv_filter(img, hsv):
-#     print('HSV!!!')
-#     # applying colour filter (one channel)
-#     thresh = cv2.inRange(hsv, h_min_green, h_max_green)
-#
-#     contours, hierarchy = cv2.findContours(thresh, cv2.RETR_TREE, cv2.CHAIN_APPROX_NONE)
-#     # the biggest contour
-#     c = max(contours, key=cv2.contourArea)
-#
-#     # rect = ((center_x,center_y),(width,height),angle)
-#     rect = cv2.minAreaRect(c)
-#
-#     center = int(rect[0][0]), int(rect[0][1])
-#
-#     # little center circle
-#     cv2.circle(img, center, 3, (0, 255, 0), 2)
-#
-#     # 4 corners to draw rectangle
-#     b = cv2.boxPoints(rect)
-#     b = np.int0(b)
-#
-#     cv2.drawContours(img, [b], 0, (0, 255, 0), 2)
+def hsv_filter(img, hsv):
+    print('HSV!!!')
+    # applying colour filter (one channel)
+    thresh = cv2.inRange(hsv, h_min_green, h_max_green)
+
+    contours, hierarchy = cv2.findContours(thresh, cv2.RETR_TREE, cv2.CHAIN_APPROX_NONE)
+    # the biggest contour
+    c = max(contours, key=cv2.contourArea)
+
+    # rect = ((center_x,center_y),(width,height),angle)
+    rect = cv2.minAreaRect(c)
+
+    center = int(rect[0][0]), int(rect[0][1])
+
+    # little center circle
+    cv2.circle(img, center, 3, (0, 255, 0), 2)
+
+    # 4 corners to draw rectangle
+    b = cv2.boxPoints(rect)
+    b = np.int0(b)
+
+    cv2.drawContours(img, [b], 0, (0, 255, 0), 2)
 
 
 def gamma_hough(img, gamma, h_min, h_max):
