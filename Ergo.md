@@ -1,3 +1,0 @@
-Ergo
-
-Description
